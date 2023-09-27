@@ -21,7 +21,7 @@ Ariel Romero...
 ______
 
 ## Objetivos
-Desarrollar el servidor de una ToDo App, mediante la cual se repasarán los temas vistos durante el módulo 3.
+Desarrollar el servidor de una App que permita administrar episodios, mediante la cual se repasarán los temas vistos durante el módulo 3.
 
 ## Estructura del proyecto
 Se entrega un boilerplate con la siguiente estructura:
